@@ -6,7 +6,7 @@ module.exports = {
       summary: `Меня зовут Петр, и это мой блог. Здесь я пишу о том, как построить сильный бренд, увеличить эффективность маркетинга и отличить хороший креатив от плохого. Я разбираю кейсы, цитирую книги и делюсь собственным опытом.`,
     },
     description: `Маркетинг, продукт и коммуникация.`,
-    siteUrl: `http://read-martyuk.netlify.com/`,
+    siteUrl: `http://read.martyuk.com/`,
     social: {
       twitter: `pmartyuk`,
     },
@@ -99,6 +99,19 @@ module.exports = {
           endpoint: 'https://martyuk.us11.list-manage.com/subscribe/post?u=4cefc021590ef1dde067bea29&amp;id=3868db8cb7', // add your MC list endpoint here; see instructions below
       },
     },
+    {
+      resolve: `gatsby-plugin-yandex-metrica`,
+      options: {
+        trackingId: "60751463",
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        trackHash: true,
+
+        // Detailed recordings of user activity on the site: mouse movement, scrolling, and clicks.
+        webvisor: true,
+      }
+    }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
