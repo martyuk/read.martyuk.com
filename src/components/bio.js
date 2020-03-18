@@ -23,15 +23,15 @@ const Bio = () => {
 
   const { author } = data.site.siteMetadata
   return (
-    <div
+    <p
       style={{
         display: `flex`,
       }}
     >
-      <p>
+      <div>
         {author.summary}
-      </p>
-    </div>
+      </div>
+    </p>
   )
 }
 

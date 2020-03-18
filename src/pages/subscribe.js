@@ -1,53 +1,65 @@
-import React from 'react';
-import addToMailchimp from 'gatsby-plugin-mailchimp';
+import React from "react"
 
-export default class IndexPage extends React.Component {
-    state = {
-        email: null
-    }
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import { rhythm } from "../utils/typography"
+import Subscription from "../components/subscription"
 
-    _handleChange = (e) => {
-        this.setState({
-            [`${e.target.name}`]: e.target.value,
-        });
-    }
-
-    _handleSubmit = (e) => {
-        e.preventDefault();
-
-        console.log('submit', this.state);
-
-        addToMailchimp(this.state.email, this.state)
-            .then(({ msg, result }) => {
-                console.log('msg', `${result}: ${msg}`);
-
-                if (result !== 'success') {
-                    throw msg;
-                }
-                alert(msg);
-            })
-            .catch((err) => {
-                console.log('err', err);
-                alert(err);
-            });
-    }
-
-    render() {
-        return (
-            <div>
-                <p>Подпишитесь на рассылку, чтобы получать новые посты на почту.</p>
-                <div>
-                    <form onSubmit={this._handleSubmit}>
-                        <input
-                            type="email"
-                            onChange={this._handleChange}
-                            placeholder="почта"
-                            name="email"
-                        />
-                        <input type="submit" value="Подписаться"/>
-                    </form>
-                </div>
-            </div>
-        );
-    }
-}
+export default () => (
+  <Layout>
+    <SEO title="Рассылка"/>
+    <h1 style={{ marginTop: rhythm(1) }}>Не только блог, но и рассылка</h1>
+    <p>
+        В начале февраля
+        я сел на информационную диету.
+        Как учила Мари Кондо,
+        я избавился от всего,
+        что не доставляет мне радости.
+        От <i>полезных</i> телеграм-каналов,
+        от <i>нужных</i> имейл-рассылок,
+        от <i>важных</i> аккаунтов в Твиттере.
+    </p>
+    <p>
+        Теперь вместо 100 источников информации
+        я использую 10.
+        И как выяснилось
+        неделю спустя,
+        эти 10 и есть самые нужные.
+        Но я не стал меньше читать и смотреть.
+        Просто время,
+        которое я раньше тратил на Телеграм и Твиттер,
+        теперь я трачу на книги.
+    </p>
+    <p>
+        Вместе с тем,
+        как я потребляю информацию,
+        изменилось и то,
+        как я ее структурирую.
+        Поэтому вместе с Телеграм-каналом
+        я решил вести блог.
+        В отличие от Телеграм-канала
+        посты в блоге будут появляться
+        не чаще одного раза в месяц.
+        Скорее всего даже реже.
+        Зато в отличие постов Телеграма,
+        посты в этом блоге
+        не потеряют своей актуальности
+        через месяц и через год.
+    </p>
+    <p>
+        Здесь я буду писать
+        про маркетинг, продукт и коммуникацию.
+        Я продолжаю читать книги,
+        Contagious,
+        WARC,
+        слежу за работами креативных агентств.
+        В своих постах я буду пытаться
+        собрать из отдельных кусочков
+        общую картину того,
+        как строить бренды,
+        создавать эффективную коммуникацию
+        и делать хороший креатив.
+    </p>
+    <Subscription okay="This is good"/>
+  </Layout>
+)

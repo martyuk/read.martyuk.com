@@ -11,7 +11,7 @@ Wordpress2016.overrideThemeStyles = () => {
   }
 }
 
-Wordpress2016.baseFontSize = ["24px"]
+Wordpress2016.baseFontSize = ["22px"]
 Wordpress2016.baseLineHeight = 1.5
 Wordpress2016.headerFontFamily = ["sans-serif"]
 Wordpress2016.bodyFontFamily = ["serif"]
@@ -22,8 +22,8 @@ Wordpress2016.overrideStyles = ({ adjustFontSizeTo, scale, rhythm }, options) =>
   },
   blockquote: {
     fontStyle: "italic",
-    paddingLeft: rhythm(13 / 16),
-    marginLeft: rhythm(-1),
+    paddingLeft: rhythm(5 / 12),
+    marginLeft: rhythm(-1 / 2),
     borderLeft: `${rhythm(1 / 12)} solid ${gray(0)}`,
   },
   "blockquote > :last-child": {
@@ -37,8 +37,9 @@ Wordpress2016.overrideStyles = ({ adjustFontSizeTo, scale, rhythm }, options) =>
   "blockquote cite:before": {
     content: '"— "',
   },
-  ul: {
-    listStyle: "disc",
+  "li,li>ul,li>ol": {
+    marginBottom: rhythm(1 / 4),
+    marginTop: 0
   },
   "ul,ol": {
     marginLeft: 0,
@@ -55,9 +56,6 @@ Wordpress2016.overrideStyles = ({ adjustFontSizeTo, scale, rhythm }, options) =>
   },
   "h1,h2,h3,h4,h5,h6": {
     marginTop: rhythm(2),
-  },
-  h4: {
-    textTransform: "uppercase",
   },
   h6: {
     fontStyle: "italic",
