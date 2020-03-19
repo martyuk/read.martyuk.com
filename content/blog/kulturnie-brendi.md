@@ -9,7 +9,7 @@ description: >-
   продажи.
 ---
 
-*В этом посте я часто обращаюсь к нескольким источникам. Настолько часто, что теперь мне сложно проставить их после каждого предложения. Поэтому я приведу список основных источников в самом начале.*
+*В этом посте я часто обращаюсь к нескольким источникам. Настолько часто, что теперь мне сложно проставить их после каждого предложения. Поэтому я приведу основные источники в самом начале.*
 
 1. **Cultural Strategy: Using Innovative Ideologies to Build Breakthrough Brands**; Douglas Holt, Douglas Cameron; Oxford University Press, October 2012, [Amazon](https://www.amazon.com/Cultural-Strategy-Innovative-Ideologies-Breakthrough/dp/0199655855/)
 2. **How Brands Grow: What Marketers Don't Know**, Byron Sharp, Oxford University Press, April 2010, [Amazon](https://www.amazon.com/How-Brands-Grow-What-Marketers/dp/0195573560/)
@@ -19,7 +19,7 @@ description: >-
 
 ## Короче говоря
 
-Сильный бренд дает бизнесу много преимуществ. Сильные бренды занимают бóльший объем рынка и могут позволить себе устанавливать более высокие цены [[4]](http://www.millwardbrown.com/docs/default-source/insight-documents/articles-and-reports/MillwardBrown_MeaningfullyDifferentFramework_April2013.pdf). За счет этого они получают больше прибыли и становятся еще больше.
+Сильный бренд дает бизнесу много преимуществ. Сильные бренды занимают бóльший объем рынка и могут позволить себе устанавливать более высокие цены [4]. За счет этого они получают больше прибыли и становятся еще больше.
 
 Существует множество подходов к тому, как построить сильный бренд. Иногда они противоречат друг другу, иногда — нет. Поэтому их можно использовать как по отдельности, так и сразу вместе.
 
@@ -150,4 +150,14 @@ Apple поддержали это на уровне продукта и комм
 
 **Люди лучше запоминают атрибуты сильного бренда**. Когда бренд говорит о том, что вас волнует, вы уделяете этому больше внимания, а значит лучше запоминаете его коммуникацию.
 
-Все вместе это приводит к тому, что упоминания бренда в медиа влияют не только на имиджевые показатели, но и на продажи (с коэффициентом корреляции 0,91).
+Все вместе это приводит к тому, что упоминания бренда в медиа влияют не только на имиджевые показатели, но и на продажи (с коэффициентом корреляции 0,91) [5].
+
+- - -
+
+### Источники
+
+1. **Cultural Strategy: Using Innovative Ideologies to Build Breakthrough Brands**; Douglas Holt, Douglas Cameron; Oxford University Press, October 2012, [Amazon](https://www.amazon.com/Cultural-Strategy-Innovative-Ideologies-Breakthrough/dp/0199655855/)
+2. **How Brands Grow: What Marketers Don't Know**, Byron Sharp, Oxford University Press, April 2010, [Amazon](https://www.amazon.com/How-Brands-Grow-What-Marketers/dp/0195573560/)
+3. **How not to Plan: 66 ways to screw it up**, Les Binet, Matador, July 2018, [Amazon](https://www.amazon.com/How-not-Plan-ways-screw-ebook/dp/B07FF3DY4B/)
+4. **The Meaningfully Different Framework**, 2013, [Millward Brown](http://www.millwardbrown.com/docs/default-source/insight-documents/articles-and-reports/MillwardBrown_MeaningfullyDifferentFramework_April2013.pdf)
+5. **The Effects of Electronic Word Of Mouth on Sales: A Meta Analytical Review**, Ana Babić Rosario, Francesca Sotgiu, Kristine de Valck, Tammo H. A. Bijmolt, 2016, [Researchgate](https://www.researchgate.net/publication/280593699_The_Effect_of_Electronic_Word_of_Mouth_on_Sales_A_Meta-Analytic_Review_of_Platform_Product_and_Metric_Factors)
