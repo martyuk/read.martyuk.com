@@ -60,6 +60,6 @@ export default () => (
         создавать эффективную коммуникацию
         и делать хороший креатив.
     </p>
-    <Subscription okay="This is good"/>
+    <Subscription />
   </Layout>
 )

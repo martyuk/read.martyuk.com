@@ -20,6 +20,8 @@ description: >-
 3. **How not to Plan: 66 ways to screw it up**, Les Binet, Matador, July 2018, [Amazon](https://www.amazon.com/How-not-Plan-ways-screw-ebook/dp/B07FF3DY4B/)
 4. **The Anatomy of Humbug: How to Think Differently About Advertising**, Paul Feldwick, Matador, January 2015, [Amazon](https://www.amazon.com/Anatomy-Humbug-Think-Differently-Advertising-ebook/dp/B00SHB05M2/)
 
+- - -
+
 Существует два принципиальных подхода к тому, как отстраивать бренд. Первый основан на идее, что люди отличают бренд, когда отличается продукт (_product benefit_). И с этим все понятно. А второй строится на понятии эмоциональных территорий (_emotional benefit_). И с ним все немного сложнее. Компании используют эти подходы в отдельности или вместе с уклоном в ту или другую сторону.
 
 ## Бренд отличается с точки зрения продукта
