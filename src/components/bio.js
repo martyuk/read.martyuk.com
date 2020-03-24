@@ -28,9 +28,7 @@ const Bio = () => {
         display: `flex`,
       }}
     >
-      <div>
-        {author.summary}
-      </div>
+      {author.summary}
     </p>
   )
 }
