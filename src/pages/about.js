@@ -41,7 +41,7 @@ export default props => (
           (<a href="https://meduza.io/feature/2019/10/10/my-govorim-vam-cherez-ivana-nas-ochen-malo-nam-ochen-slozhno"> Meduza</a>, <a href="https://www.the-village.ru/village/city/news-city/364281-dich">TheVillage</a>, <a href="https://www.wonderzine.com/wonderzine/life/life/246411-birds-records">Wonderzine</a>, <a href="https://www.kp.ru/daily/27053.5/4120442/">Комсомольская Правда</a>)
         </li>
         <li><i>Додо Пицца</i>. Со специалистами по нейросетям из МФТИ и Сколтеха 
-        создали Опенсорс пиццу и выложили исходный код на GitHub
+        создали Опенсорс пиццу, и выложили исходный код на GitHub
           (<a href="https://tjournal.ru/tech/120179-dodo-picca-sozdala-piccu-s-pomoshchyu-neyrosetey-i-opublikovala-ishodnyy-kod-v-otkrytom-dostupe">TJournal</a>, <a href="https://rb.ru/story/dodo-pizza-ai/">Rusbase</a>, <a href="https://vk.com/wall-91933860_264687">N+1</a>)
         </li>
       </ul>

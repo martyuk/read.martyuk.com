@@ -16,7 +16,12 @@ const BlogIndex = ({ data }) => {
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <article key={node.fields.slug}>
+          <article
+            key={node.fields.slug}
+            style={{
+              marginBottom: rhythm(1),
+            }}
+          >
             <header>
               <h3
                 style={{
@@ -35,16 +40,14 @@ const BlogIndex = ({ data }) => {
               <small>{node.frontmatter.date}</small>
             </header>
             <section>
-              <p>
-                <div
-                  dangerouslySetInnerHTML={{
-                    __html: node.frontmatter.description || node.excerpt,
-                  }}
-                />
-                <Link to={node.fields.slug}>
-                  {"Продолжение →"}
-                </Link>
-              </p>
+              <p
+                dangerouslySetInnerHTML={{
+                  __html: node.frontmatter.description || node.excerpt,
+                }}
+              />
+              <Link to={node.fields.slug}>
+                {"Продолжение →"}
+              </Link>
             </section>
           </article>
         )
