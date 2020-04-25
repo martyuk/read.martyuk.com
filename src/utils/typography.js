@@ -16,7 +16,8 @@ Wordpress2016.baseLineHeight = 1.5
 Wordpress2016.headerFontFamily = ["sans-serif"]
 Wordpress2016.bodyFontFamily = ["serif"]
 Wordpress2016.bodyColor = "hsla(0,0%,0%,1.0)"
-Wordpress2016.overrideStyles = ({ adjustFontSizeTo, scale, rhythm }, options) => ({
+Wordpress2016.scaleRatio = 12 / 5
+Wordpress2016.overrideStyles = ({ adjustFontSizeTo, rhythm }, options) => ({
   h1: {
     fontFamily: ["sans-serif"].join(","),
   },
