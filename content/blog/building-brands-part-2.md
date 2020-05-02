@@ -107,7 +107,7 @@ Clemenger BBDO придумали способ, как дать ритейлер
 * **How Brands Grow: What Marketers Don’t Know**, Byron Sharp, Oxford University Press, April 2010, [Amazon](https://www.amazon.com/How-Brands-Grow-What-Marketers/dp/0195573560/)
 * **How not to Plan: 66 ways to screw it up**, Les Binet, Matador, July 2018, [Amazon](https://www.amazon.com/How-not-Plan-ways-screw-ebook/dp/B07FF3DY4B/)
 
-1. **[Old Navy will shift back to brand-building in a growing trend among advertisers](https://www.cnbc.com/2019/11/22/old-navy-was-neglecting-brand-marketing-gap-cfo-admits.html)**, CNBC, 2019
+1. **Old Navy will shift back to brand-building in a growing trend among advertisers**, [CNBC](https://www.cnbc.com/2019/11/22/old-navy-was-neglecting-brand-marketing-gap-cfo-admits.html), 2019
 2. **How Burger King drove mobile ordering**, 2019, [WARC](https://www.warc.com/newsandopinion/news/how_burger_king_drove_mobile_ordering/42233)
 3. **The strategy behind the Burger King stunt that dominated the 2019 Cannes Lions festival**, 2019, [Contagious](https://www.contagious.com/news-and-views/burger-king-whopper-detour-strategy-cannes-interview)
 4. **Snickers: Hungerithm**, 2018, [WARC](https://www.warc.com/content/article/rankings-creative/snickers-hungerithm-australia/119906)
