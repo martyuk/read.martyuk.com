@@ -75,7 +75,7 @@ description: >-
 
 ### **Hungerithm**
 
-**Clemenger BBDO** для Snicker, Австралия, 2018
+**Clemenger BBDO** для Snickers, Австралия, 2018
 
 `youtube: seMYBHTOpjY`
 
