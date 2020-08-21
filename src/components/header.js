@@ -31,13 +31,13 @@ const Header = () => {
                     marginRight: rhythm(1 / 4),
                 }}
                 >
-                <span
-                    style={{
-                    marginRight: rhythm(1 / 4),
-                    }}
-                >
-                    <Link to={`/subscribe/`}>Рассылка</Link>
-                </span>
+                    <span
+                        style={{
+                        marginRight: rhythm(1 / 4),
+                        }}
+                    >
+                        <Link to={`/`}>Главная</Link>
+                    </span>
                 ·
                 </span>
                 <span
@@ -46,13 +46,28 @@ const Header = () => {
                     marginRight: rhythm(1 / 4),
                 }}
                 >
-                <span
-                    style={{
-                    marginRight: rhythm(1 / 4),
-
-                }}>
-                <Link to={`/library/`}>Библиотека</Link>
+                    <span
+                        style={{
+                        marginRight: rhythm(1 / 4),
+                        }}
+                    >
+                        <Link to={`/subscribe/`}>Рассылка</Link>
+                    </span>
+                ·
                 </span>
+                <span
+                style={{
+                    display: `inline-block`,
+                    marginRight: rhythm(1 / 4),
+                }}
+                >
+                    <span
+                        style={{
+                        marginRight: rhythm(1 / 4),
+
+                    }}>
+                    <Link to={`/now/`}>Прямо сейчас</Link>
+                    </span>
                 ·
                 </span>
                 <span

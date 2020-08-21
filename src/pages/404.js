@@ -8,9 +8,9 @@ const NotFoundPage = () => {
 
   return (
     <Layout>
-      <SEO title="404: Not Found" />
+      <SEO title="404" />
       <h1 style={{ marginTop: rhythm(1) }}>Такой страницы не существует</h1>
-      <p>Но почему? <span role="img" aria-label=":thoughts:">🤔</span></p>
+      <p>Но почему? <span role="img" aria-label="thinking face">🤔</span></p>
     </Layout>
   )
 }
