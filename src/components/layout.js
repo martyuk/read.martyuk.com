@@ -9,7 +9,7 @@ const Layout = ({ title, children }) => {
     <div
       style={{
         maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(1)}`,
+        padding: `${rhythm(1.5)}`,
       }}
     >
       <Header titlte={title} />
