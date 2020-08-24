@@ -183,4 +183,4 @@ description: "В маркетинге есть вещи, о которых пр�
 [^17]:
   Even consumption situation-based category definitions (e.g. for snacking, for sharing, for gifting) commonly result in artificial overly narrow category definitions. The reality is that few brands are exclusively bought for specific consumption situations, and which brands are bought for which situation varies between consumers and over time.
 
-  — How Brands Grow, Revised e-book version
+  — How Brands Grow, Revised e-book version 2014
