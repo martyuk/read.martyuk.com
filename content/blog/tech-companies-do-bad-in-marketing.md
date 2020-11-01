@@ -176,7 +176,7 @@ description: "Мы живем не в мире правил, а в мире ве
 
   — [Uber Newsroom](https://www.uber.com/newsroom/company-info/)
 
-[^13]:
+[^14]:
   Cutting the aggregate data by industry sheds some light on the still surging interest in uberization for supply chain strategy. Fifty-two percent of Logistics and Distribution company respondents call the sharing economy important to their strategies, the highest of any industry group. In part, this reflects the obvious extension of the Uber model to trucking and warehousing.
 
   — [Forbes](https://www.forbes.com/sites/kevinomarah/2017/09/28/uber-is-in-trouble-but-uberization-is-a-must-have/)
