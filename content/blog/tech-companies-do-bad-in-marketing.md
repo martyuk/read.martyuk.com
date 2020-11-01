@@ -164,19 +164,19 @@ description: "Мы живем не в мире правил, а в мире ве
 [^11]:
   Airbnb's mission is to help create a world where you can belong anywhere and where people can live in a place, instead of just traveling to it.
 
-  — [Airbnb Mission Statement](https://www.comparably.com/companies/airbnb/mission)
+  — Comparably, Airbnb Mission Statement
 
 [^12]:
   Our mission at Intercom is to make internet business personal.
 
-  — [Intercom.design](https://intercom.design/#:~:text=Our%20mission%20at%20Intercom%20is,unique%20inspiration%20for%20our%20mission.&text=Our%20vision%20at%20Intercom%20is,all%20customer%20and%20business%20communication.)
+  — Intercom.design
 
 [^13]:
   Uber's mission is to bring transportation — for everyone, everywhere.
 
-  — [Uber Newsroom](https://www.uber.com/newsroom/company-info/)
+  — Uber Newsroom
 
 [^14]:
   Cutting the aggregate data by industry sheds some light on the still surging interest in uberization for supply chain strategy. Fifty-two percent of Logistics and Distribution company respondents call the sharing economy important to their strategies, the highest of any industry group. In part, this reflects the obvious extension of the Uber model to trucking and warehousing.
 
-  — [Forbes](https://www.forbes.com/sites/kevinomarah/2017/09/28/uber-is-in-trouble-but-uberization-is-a-must-have/)
+  — Forbes, Uber Is In Trouble, But Uberization Is A Must-Have
