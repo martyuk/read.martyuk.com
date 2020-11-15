@@ -56,11 +56,11 @@ description: "Мы живем не в мире правил, а в мире ве
 
 У продуктового маркетинга и культурных стратегий есть одно значительное пересечение — это истории. Продуктовый маркетинг рассказывает историю о миссии продукта, его видении и ценностном предложении:
 
-- __Airbnb__. Мы создаем мир, в котором вы можете чувствовать себя как дома в любой точке мира [^11],
-- __Intercom__. Наша цель — сделать онлайн-бизнес персональным [^12],
-- __Uber__. Мы хотим, чтобы любой человек мог воспользоваться транспортом в любой точке мира [^13].
+- __Airbnb__. Мы создаем мир, в котором вы можете чувствовать себя как дома в любой точке мира [^10],
+- __Intercom__. Наша цель — сделать онлайн-бизнес персональным [^11],
+- __Uber__. Мы хотим, чтобы любой человек мог воспользоваться транспортом в любой точке мира [^12].
 
-А в культурных стратегиях история выражает точку зрения на значимое в данный момент культурное явление [^10].
+А в культурных стратегиях история выражает точку зрения на значимое в данный момент культурное явление [^13].
 
 Например, Axe рассказывает про новую мужественность.
 `youtube: GB5N3DwvtkM`
@@ -155,24 +155,24 @@ _По-настоящему_ инновационные технологии ме
   — Intercom on Marketing, 2018
 
 [^10]:
-  An ideology is a point of view on one of these important cultural constructs that has become widely shared and taken for granted, naturalized by a segment of society as a ‘‘truth.’’ Ideologies profoundly shape our everyday evaluations and actions. We all hold dear many ideologies, which allow us to function consistently, coherently, and effectively in our social lives. Ideologies also serve as the foundation of consumer markets. Strong brands sustain ideologies — a particular point of view on a cultural construct that is central to the product.
-
-  — Cultural Strategy, 2010
-
-[^11]:
   Airbnb's mission is to help create a world where you can belong anywhere and where people can live in a place, instead of just traveling to it.
 
   — Comparably, Airbnb Mission Statement
 
-[^12]:
+[^11]:
   Our mission at Intercom is to make internet business personal.
 
   — Intercom.design
 
-[^13]:
+[^12]:
   Uber's mission is to bring transportation — for everyone, everywhere.
 
   — Uber Newsroom
+
+[^13]:
+  An ideology is a point of view on one of these important cultural constructs that has become widely shared and taken for granted, naturalized by a segment of society as a ‘‘truth.’’ Ideologies profoundly shape our everyday evaluations and actions. We all hold dear many ideologies, which allow us to function consistently, coherently, and effectively in our social lives. Ideologies also serve as the foundation of consumer markets. Strong brands sustain ideologies — a particular point of view on a cultural construct that is central to the product.
+
+  — Cultural Strategy, 2010
 
 [^14]:
   Cutting the aggregate data by industry sheds some light on the still surging interest in uberization for supply chain strategy. Fifty-two percent of Logistics and Distribution company respondents call the sharing economy important to their strategies, the highest of any industry group. In part, this reflects the obvious extension of the Uber model to trucking and warehousing.

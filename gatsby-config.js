@@ -62,19 +62,6 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          /*{
-            resolve: `gatsby-remark-footnotes`,
-            options: {
-              footnoteBackRefPreviousElementDisplay: "block",
-              footnoteBackRefDisplay: "inline",
-              footnoteBackRefInnerText: "↩", // Defaults to: "↩"
-              //use if you want the Wikipedia style ^ link without an underline beneath it
-              footnoteBackRefAnchorStyle: `text-decoration: none;`,
-              //use "front" for Wikipedia style ^ links
-              footnoteBackRefInnerTextStartPosition: "back",
-              useFootnoteMarkerText: true // Defaults to false
-            }
-          },*/
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
