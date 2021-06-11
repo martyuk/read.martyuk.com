@@ -49,7 +49,7 @@ description: Вначале инфлюенсеры отняли деньги у 
 
 `youtube: https://youtu.be/UxxlvOLPevc`
 
-Дальше — больше. Сейчас Maximum Effort продолжают снимать крутую рекламу не только для себя, но и для других.
+Дальше — больше. Сейчас Maximum Effort продолжают снимать крутую рекламу и трепать нервы агентствам.
 
 `youtube: https://youtu.be/oWuuyuQvPyQ`
 
