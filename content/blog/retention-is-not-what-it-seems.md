@@ -105,29 +105,36 @@ __А вот маркетинг как будто бы может только м
 
 	У вас все равно не получится. И настоящие пользователи не разбираются в брендах, продуктах и очень редко о них думают. Никаких отношений в таких условиях не построить. Расскажите об этом команде.	
 	
-[^2]: На самом деле надо брать не среднее значение количества покупок, а медианное. Потому что аудитория, которая покупает намного чаще других, сильно завышает среднее значение. А при расчете медианного значения учитывается количество аудитории.
+[^2]:
+	На самом деле надо брать не среднее значение количества покупок, а медианное. Потому что аудитория, которая покупает намного чаще других, сильно завышает среднее значение. А при расчете медианного значения учитывается количество аудитории.
 
-[^3]: 'loyals' being people who bought the brand for the majority of their toothpaste purchasing during the analysis period, 'switchers' – people who bought Colgate at least once in the analysis period
+[^3]:
+	'loyals' being people who bought the brand for the majority of their toothpaste purchasing during the analysis period, 'switchers' – people who bought Colgate at least once in the analysis period
 	
 	How Brands Grow, Revised e-book version 2014
 	
-[^4]: The hidden advantage of customer retention is not limited to these two banks. Bain & Co. has quantified the potential impact of improving customer retention for several banks, and the results are inevitably impressive. In fact, we have measured the impact of customer retention on over two dozen service businesses, and concluded that a five-point improvement in customer retention can lead to profit swings of 25% to 80%.
+[^4]:
+	The hidden advantage of customer retention is not limited to these two banks. Bain & Co. has quantified the potential impact of improving customer retention for several banks, and the results are inevitably impressive. In fact, we have measured the impact of customer retention on over two dozen service businesses, and concluded that a five-point improvement in customer retention can lead to profit swings of 25% to 80%.
 	
 	[The hidden advantages of customer retention](https://go.gale.com/ps/anonymous?id=GALE%7CA9295626)
 
-[^5]: Service companies have their own kind of scrap heap: customers who will not come back. That scrap heap too has a cost. As service businesses start to measure it, they will see the urgent need to reduce it. They will strive for “zero defections”—keeping every customer the company can profitably serve—and they will mobilize the organization to achieve it.
+[^5]:
+	Service companies have their own kind of scrap heap: customers who will not come back. That scrap heap too has a cost. As service businesses start to measure it, they will see the urgent need to reduce it. They will strive for “zero defections”—keeping every customer the company can profitably serve—and they will mobilize the organization to achieve it.
 	
 	[Zero Defections: Quality Comes to Services](https://hbr.org/1990/09/zero-defections-quality-comes-to-services)
 
-[^6]: Increasing your customer retention rate can have a big impact on your bottom line. Harvard Business Review researched the value of customer retention and found that by raising retention rates 5%, the average business will increase profits by 25% to 95%.
+[^6]:
+	Increasing your customer retention rate can have a big impact on your bottom line. Harvard Business Review researched the value of customer retention and found that by raising retention rates 5%, the average business will increase profits by 25% to 95%.
 	
 	The Growth Handbook, 2018
 
-[^7]: Fun fact: when Microsoft asked their users what they wanted added to Office, they found 90% of the requested features were already there. Microsoft assumed this was an awareness challenge, hence the launch of the ribbon tool- bar which highlights all features, and therefore highlights nothing. Like I said, this is tricky.
+[^7]:
+	Fun fact: when Microsoft asked their users what they wanted added to Office, they found 90% of the requested features were already there. Microsoft assumed this was an awareness challenge, hence the launch of the ribbon tool- bar which highlights all features, and therefore highlights nothing. Like I said, this is tricky.
 	
 	Intercom on Product Management, 2017
 	
-[^8]: Most of those new signups will look at your product once and, for a multitude of reasons, never come back. You just embarked on a big marketing campaign and spent all that time and money getting them in the door, only for them to see no value in your product and walk right back out again.
+[^8]:
+	Most of those new signups will look at your product once and, for a multitude of reasons, never come back. You just embarked on a big marketing campaign and spent all that time and money getting them in the door, only for them to see no value in your product and walk right back out again.
 	
 	Many of your new signups are just kicking the tires, and if you don’t show them how to succeed, don’t be surprised when they simply walk away.
 	
@@ -135,22 +142,27 @@ __А вот маркетинг как будто бы может только м
 	
 	Intercom on Marketing, 2018
 
-[^9]: Successful advertising, in particular, reaches the millions of consumers who have a very low probability of buying a brand next week or month. If a brand's advertising reaches them, if they notice it, if it refreshes or builds the memory structures that make the brand more likely to be noticed or come to mind in a buying situation (i.e. enhancing mental availability), then it nudges their propensity to buy the brand. This is the sales effect.
+[^9]:
+	Successful advertising, in particular, reaches the millions of consumers who have a very low probability of buying a brand next week or month. If a brand's advertising reaches them, if they notice it, if it refreshes or builds the memory structures that make the brand more likely to be noticed or come to mind in a buying situation (i.e. enhancing mental availability), then it nudges their propensity to buy the brand. This is the sales effect.
 	
 	How Brands Grow, Revised e-book version 2014
 
-[^10]: Growth in market share comes by increasing popularity; that is, by gaining many more buyers (of all types), most of whom are light customers buying the brand only very occasionally.
+[^10]:
+	Growth in market share comes by increasing popularity; that is, by gaining many more buyers (of all types), most of whom are light customers buying the brand only very occasionally.
 	
 	How Brands Grow, Revised e-book version 2014
 
-[^11]: The largest brand, Persil, gets bought almost four times a year. Surf, the smallest, has fewer than half the number of buyers as Persil and these buyers buy Surf around three and a half times a year. This pattern is known as the 'double jeopardy' law because smaller brands get 'hit twice': their sales are lower because they have fewer buyers who buy the brand less often.
+[^11]:
+	The largest brand, Persil, gets bought almost four times a year. Surf, the smallest, has fewer than half the number of buyers as Persil and these buyers buy Surf around three and a half times a year. This pattern is known as the 'double jeopardy' law because smaller brands get 'hit twice': their sales are lower because they have fewer buyers who buy the brand less often.
 	
 	How Brands Grow, Revised e-book version 2014
 	
-[^12]: I’ve been lucky enough to work at two of the biggest brands in the world – Nike and Coca-Cola – who pour millions of dollars into brand building tactics like TV and outdoor advertising. If you looked at these numbers in a spreadsheet it might look like money poured down the sink, but what they both understand is that seeking emotional connections with customers cultivates more meaningful, sustained relationships over time.
+[^12]:
+	I’ve been lucky enough to work at two of the biggest brands in the world – Nike and Coca-Cola – who pour millions of dollars into brand building tactics like TV and outdoor advertising. If you looked at these numbers in a spreadsheet it might look like money poured down the sink, but what they both understand is that seeking emotional connections with customers cultivates more meaningful, sustained relationships over time.
 	
 	Intercom on Marketing, 2018
 
-[^13]: Attitudes reflect how much a buyer buys the brand, that is, they reflect loyalty. We know that loyalty metrics don't vary a lot between brands. Consequently, the buyers of brand A have the same opinion of brand A as buyers of brand B have of brand B. I call this the 'my mum' phenomenon: my own mother is the best mum in the world, she's lovely, but she can also be rather annoying sometimes. Does that sound like your mum?
+[^13]:
+	Attitudes reflect how much a buyer buys the brand, that is, they reflect loyalty. We know that loyalty metrics don't vary a lot between brands. Consequently, the buyers of brand A have the same opinion of brand A as buyers of brand B have of brand B. I call this the 'my mum' phenomenon: my own mother is the best mum in the world, she's lovely, but she can also be rather annoying sometimes. Does that sound like your mum?
 
 	How Brands Grow, Revised e-book version 2014
