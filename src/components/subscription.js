@@ -1,6 +1,5 @@
 import React from "react";
 import { rhythm } from "../utils/typography"
-
 import addToMailchimp from "gatsby-plugin-mailchimp"
 
 export default class Subscription extends React.Component {
@@ -12,11 +11,18 @@ export default class Subscription extends React.Component {
   }
   // Update state each time user edits their email address
   _handleEmailChange = e => {
-    this.setState({ email: e.target.value })
+    console.log({
+        [`${e.target.name}`]: e.target.value,
+    })
+    this.setState({
+        [`${e.target.name}`]: e.target.value,
+        'group[32862][1]':'1',
+        'group[32862][2]':'2'
+    })
   }
   // Post to MC server & handle its response
-  _postEmailToMailchimp = (email, attributes) => {
-    addToMailchimp(email, attributes)
+  _postEmailToMailchimp = () => {
+    addToMailchimp(this.state.email, this.state)
       .then(result => {
         // Mailchimp always returns a 200 response
         // So we check the result for MC errors & failures
@@ -58,13 +64,10 @@ export default class Subscription extends React.Component {
         }
       )
       // setState callback (subscribe email to MC)
-      this._postEmailToMailchimp(this.state.email, {
-        pathname: document.location.pathname,
-      })
+      this._postEmailToMailchimp(this.state.email, this.state)
     }
   }
   render() {
-
     const isNothingSuccessError = this.state.status    
     let caption;
 
@@ -96,13 +99,24 @@ export default class Subscription extends React.Component {
         >
           <div>
             <input
+              type="email"
+              name="email"
               placeholder="Почта"
               onChange={this._handleEmailChange}
+              style={{
+                fontFamily: `sans-serif`,
+                fontSize: `0.8rem`,
+                width: `10rem`
+              }}
               required
             />
             <input
               type="submit"
               value="Подписаться ❤️"
+              style={{
+                fontFamily: `sans-serif`,
+                fontSize: `0.8rem`
+              }}
             >
             </input>
             {this.state.status === "error" && this.state.msg === "The email you entered is not valid." && (

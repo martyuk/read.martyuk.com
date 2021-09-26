@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Subscription from "../components/subscription"
 import { rhythm } from "../utils/typography"
 
 const BlogIndex = ({ data }) => {
@@ -13,6 +14,7 @@ const BlogIndex = ({ data }) => {
     <Layout>
       <SEO title="Блог Петра Мартюка" />
       <Bio />
+      <Subscription />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
