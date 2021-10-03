@@ -4,7 +4,7 @@ import addToMailchimp from "gatsby-plugin-mailchimp"
 
 //эта форма находится на странице Подписки
 //единственное отличие от первой формы в том, что тут стоят две галочки для подписки на разные рассылки
-export default class Subscription2 extends React.Component {
+export default class Subscription3 extends React.Component {
   constructor() {
     super()
     this.state = {
@@ -72,7 +72,7 @@ export default class Subscription2 extends React.Component {
     }
 
     if (isNothingSuccessError !== "error" && isNothingSuccessError !== "success") {
-      caption = ("Не буду ничего придумывать, просто приведу умную цитату умного человека. Но вначале подпишитесь на рассылки.")
+      caption = ("Если вдруг вы еще не подписались, это ваш шанс.")
     }
 
     return (
