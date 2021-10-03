@@ -112,15 +112,16 @@ export default class Subscription3 extends React.Component {
             <br />
             <input
                 type="checkbox"
-                value="1"
-                name="group[32862][1]"
+                value="2"
+                name="group[32862][2]"
                 onChange={this._handleChange}
+                defaultChecked
                 style={{
                     marginRight: `0.25rem`
                   }}
             />
             <label 
-                htmlFor="group[32862][1]"
+                htmlFor="group[32862][2]"
                 style={{
                     fontFamily: `sans-serif`,
                     fontSize: `0.8rem`,
@@ -130,15 +131,16 @@ export default class Subscription3 extends React.Component {
             <br />
             <input
                 type="checkbox"
-                value="2"
-                name="group[32862][2]"
+                value="1"
+                name="group[32862][1]"
                 onChange={this._handleChange}
+                defaultChecked
                 style={{
                     marginRight: `0.25rem`
                   }}
             />
             <label 
-                htmlFor="group[32862][2]"
+                htmlFor="group[32862][1]"
                 style={{
                     fontFamily: `sans-serif`,
                     fontSize: `0.8rem`,
