@@ -115,8 +115,6 @@ export default class Subscription3 extends React.Component {
                 value="1"
                 name="group[32862][1]"
                 onChange={this._handleChange}
-                onClick="this.checked=!this.checked;"
-                checked
                 style={{
                     marginRight: `0.25rem`
                   }}
@@ -135,8 +133,6 @@ export default class Subscription3 extends React.Component {
                 value="2"
                 name="group[32862][2]"
                 onChange={this._handleChange}
-                onClick="this.checked=!this.checked;"
-                checked
                 style={{
                     marginRight: `0.25rem`
                   }}

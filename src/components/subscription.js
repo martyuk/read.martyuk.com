@@ -7,6 +7,8 @@ export default class Subscription extends React.Component {
     super()
     this.state = {
       email: "",
+      'group[32862][1]':'1',
+      'group[32862][2]':'2',
     }
   }
   // Update state each time user edits their email address
@@ -17,7 +19,7 @@ export default class Subscription extends React.Component {
     this.setState({
         [`${e.target.name}`]: e.target.value,
         'group[32862][1]':'1',
-        'group[32862][2]':'2'
+        'group[32862][2]':'2',
     })
   }
   // Post to MC server & handle its response
