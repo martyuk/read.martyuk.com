@@ -40,7 +40,7 @@ export default class Subscription2 extends React.Component {
             if (result !== 'success') {
               this.setState({
                 status: "error",
-                msg: result.msg,
+                msg: msg,
               })
             } else {
               this.setState({
@@ -155,7 +155,7 @@ export default class Subscription2 extends React.Component {
                 dangerouslySetInnerHTML={{ __html: "Похоже, в адресе ошибка." }}
               />
             )}
-            {this.state.status === "error" && (
+            {this.state.status === "error" && this.state.msg != "The email you entered is not valid." && (
               <div
                 style={{
                   marginTop: rhythm(1 / 4)
