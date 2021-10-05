@@ -155,7 +155,7 @@ export default class Subscription3 extends React.Component {
                 dangerouslySetInnerHTML={{ __html: "Похоже, в адресе ошибка." }}
               />
             )}
-            {this.state.status === "error" && this.state.msg != "The email you entered is not valid." && (
+            {this.state.status === "error" && this.state.msg !== "The email you entered is not valid." && (
               <div
                 style={{
                   marginTop: rhythm(1 / 4)
