@@ -45,7 +45,7 @@ export default class Subscription3 extends React.Component {
             } else {
               this.setState({
                 status: "success",
-                msg: result.msg,
+                msg: msg,
               })
             }
         })
