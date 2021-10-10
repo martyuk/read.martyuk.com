@@ -51,7 +51,7 @@ const Header = () => {
                         marginRight: rhythm(1 / 4),
                         }}
                     >
-                        <Link to={`/subscribe/`}>Рассылка</Link>
+                        <Link to={`/subscribe/`}>Рассылка и архив</Link>
                     </span>
                 ·
                 </span>

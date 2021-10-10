@@ -71,6 +71,10 @@ Wordpress2016.overrideStyles = ({ adjustFontSizeTo, rhythm }, options) => ({
     padding: `${rhythm(1 / 16)} ${rhythm(1 / 8)}`,
     textDecoration: "none",
   },
+  th: {
+    ...adjustFontSizeTo('0.9rem'),
+    fontFamily: ["sans-serif"].join(","),
+  }
 })
 
 
