@@ -72,7 +72,7 @@ export default class Subscription2 extends React.Component {
     }
 
     if (isNothingSuccessError !== "error" && isNothingSuccessError !== "success") {
-      caption = ("Вы можете сразу подписаться на все. Или дочитать до конца, и подписаться потом. Кстати, архив находится в самом низу.")
+      caption = ("Вы можете подписаться на все сразу или выбрать что-то одно. Кстати, архив находится в конце страницы.")
     }
 
     return (
