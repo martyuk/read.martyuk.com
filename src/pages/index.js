@@ -16,43 +16,46 @@ const BlogIndex = ({ data }) => {
       <Bio />
       <Subscription />
       {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        return (
-          <article
-            key={node.fields.slug}
-            style={{
-              marginBottom: rhythm(1),
-            }}
-          >
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link
+        if (node.frontmatter.type) {
+          console.log(node.frontmatter.type)
+          const title = node.frontmatter.title || node.fields.slug
+          return (
+            <article
+              key={node.fields.slug}
+              style={{
+                marginBottom: rhythm(1),
+              }}
+            >
+              <header>
+                <h3
                   style={{
-                    textDecoration: `none`,
-                    color: `inherit`
-                  }} 
-                  to={node.fields.slug}>
-                  {title}
+                    marginBottom: rhythm(1 / 4),
+                  }}
+                >
+                  <Link
+                    style={{
+                      textDecoration: `none`,
+                      color: `inherit`
+                    }} 
+                    to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </h3>
+                <small>{node.frontmatter.date}</small>
+              </header>
+              <section>
+                <p
+                  dangerouslySetInnerHTML={{
+                    __html: node.frontmatter.description || node.excerpt,
+                  }}
+                />
+                <Link to={node.fields.slug}>
+                  {"Продолжение →"}
                 </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-              <Link to={node.fields.slug}>
-                {"Продолжение →"}
-              </Link>
-            </section>
-          </article>
-        )
+              </section>
+            </article>
+          )
+        }
       })}
     </Layout>
   )
@@ -62,7 +65,14 @@ export default BlogIndex
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: {
+        frontmatter: {
+          type: { ne: "krugozor" }
+        }
+      }  
+    ) {
       edges {
         node {
           excerpt
@@ -73,6 +83,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            type
           }
         }
       }
