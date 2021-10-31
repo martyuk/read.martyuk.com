@@ -45,7 +45,7 @@ Spotify запустили кампанию для привлечения рек
 Бренд веганской еды решил использовать известных персонажей фастфуд брендов в своей рекламе. Все бы ничего, но на этой неделе Lil Nas X уже использовал для промо [креативную форму](https://www.thedrum.com/news/2021/09/17/ad-the-day-lil-nas-x-offers-financial-compensation-haters-montero-billboards) с судебными исками.
 `youtube: https://youtu.be/W8dqMz0d5Iw`
 
-### 7-Eleven: "7-ELEVEn Nachos"
+### 7-Eleven: "7-ELEVEN Nachos"
 Музыкальная группа придумала песню про 7-Eleven, а 7-Eleven придумали проспонсировать их клип.
 `youtube: https://youtu.be/Kl0T8Fm85c8`
 
