@@ -25,6 +25,12 @@ export default class Subscription3 extends React.Component {
     e.preventDefault()
     //onClick="fbq('track', 'CompleteRegistration');"
 
+    if (typeof window !== "undefined") {
+      if (window.fbq != null) {
+        window.fbq('track', 'Lead', {currency: "GBP", value: 1.00});                  }          
+    }
+    console.log(typeof window, window.fbq)
+
     if (!this.state.email) {
       this.setState({
         status: "error",
