@@ -23,6 +23,7 @@ export default class Subscription2 extends React.Component {
   
   _handleSubmit = e => {
     e.preventDefault()
+    onClick="fbq('track', 'CompleteRegistration');"
 
     if (!this.state.email) {
       this.setState({
