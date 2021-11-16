@@ -13,9 +13,6 @@ export default class Subscription extends React.Component {
   }
   // Update state each time user edits their email address
   _handleEmailChange = e => {
-    console.log({
-        [`${e.target.name}`]: e.target.value,
-    })
     this.setState({
         [`${e.target.name}`]: e.target.value,
         'group[32862][1]':'1',
@@ -52,6 +49,13 @@ export default class Subscription extends React.Component {
   _handleFormSubmit = e => {
     e.preventDefault()
     e.stopPropagation()
+
+    if (typeof window !== "undefined") {
+      if (window.fbq != null) {
+        window.fbq('track', 'CompleteRegistration');
+      }
+    }
+
     if (!this.state.email) {
       this.setState({
         status: "error",

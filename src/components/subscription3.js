@@ -13,9 +13,6 @@ export default class Subscription3 extends React.Component {
   }
 
   _handleChange = e => {
-    console.log({
-        [`${e.target.name}`]: e.target.value,
-    })
     this.setState({
         [`${e.target.name}`]: e.target.value,
     })
@@ -23,14 +20,12 @@ export default class Subscription3 extends React.Component {
   
   _handleSubmit = e => {
     e.preventDefault()
-    //onClick="fbq('track', 'CompleteRegistration');"
 
     if (typeof window !== "undefined") {
       if (window.fbq != null) {
         window.fbq('track', 'CompleteRegistration');
       }
     }
-    console.log(typeof window, window.fbq)
 
     if (!this.state.email) {
       this.setState({
@@ -39,11 +34,8 @@ export default class Subscription3 extends React.Component {
       })
     }
 
-    console.log('submit', this.state)
-
     addToMailchimp(this.state.email, this.state)
         .then(({ msg, result }) => {
-            console.log('msg', `${result}: ${msg}`)
 
             if (result !== 'success') {
               this.setState({
@@ -58,7 +50,6 @@ export default class Subscription3 extends React.Component {
             }
         })
         .catch(err => {
-            console.log('err', err)
             this.setState({
               status: "error",
               msg: err,
