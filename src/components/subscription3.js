@@ -27,7 +27,8 @@ export default class Subscription3 extends React.Component {
 
     if (typeof window !== "undefined") {
       if (window.fbq != null) {
-        window.fbq('track', 'Lead', {currency: "GBP", value: 1.00});                  }          
+        window.fbq('track', 'CompleteRegistration');
+      }
     }
     console.log(typeof window, window.fbq)
 
