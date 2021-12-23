@@ -12,4 +12,4 @@ description: Это комикс и по совместительству, по�
 
 ![](/assets/crypto-4.001.jpeg)
 
-![](/assets/crypto-5.001.jpeg)
+![](/assets/crypto-5.5.001.jpeg)
