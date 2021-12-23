@@ -63,15 +63,18 @@ const BlogIndex = ({ data }) => {
 
 export default BlogIndex
 
-export const pageQuery = graphql`
-  query {
-    allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+/*
       filter: {
         frontmatter: {
           type: { ne: "krugozor" }
         }
       }  
+*/
+
+export const pageQuery = graphql`
+  query {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
         node {
