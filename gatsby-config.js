@@ -91,12 +91,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-mailchimp',
-      options: {
-          endpoint: 'https://martyuk.us11.list-manage.com/subscribe/post?u=4cefc021590ef1dde067bea29&amp;id=3868db8cb7', // add your MC list endpoint here; see instructions below
-      },
-    },
-    {
       resolve: `gatsby-plugin-yandex-metrica`,
       options: {
         trackingId: "60751463",
@@ -108,12 +102,6 @@ module.exports = {
         // Detailed recordings of user activity on the site: mouse movement, scrolling, and clicks.
         webvisor: true,
       }
-    },
-    {
-      resolve: `gatsby-plugin-facebook-pixel`,
-      options: {
-        pixelId: "591454748848162",
-      },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline

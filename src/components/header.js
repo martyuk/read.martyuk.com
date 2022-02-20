@@ -51,7 +51,7 @@ const Header = () => {
                         marginRight: rhythm(1 / 4),
                         }}
                     >
-                        <Link to={`/subscribe/`}>Рассылка и архив</Link>
+                        <Link to={`/now/`}>Прямо сейчас</Link>
                     </span>
                 ·
                 </span>
@@ -66,7 +66,7 @@ const Header = () => {
                         marginRight: rhythm(1 / 4),
 
                     }}>
-                    <Link to={`/now/`}>Прямо сейчас</Link>
+                    <Link to={`/about/`}>Об авторе</Link>
                     </span>
                 ·
                 </span>
@@ -76,7 +76,7 @@ const Header = () => {
                     marginRight: rhythm(1 / 4),
                 }}
                 >
-                <Link to={`/about/`}>Об авторе</Link>
+                <Link to={`https://martyuk.substack.com/`} target={`_blank`}>Кругозор ↝</Link>
                 </span>
             </div>
             <h3

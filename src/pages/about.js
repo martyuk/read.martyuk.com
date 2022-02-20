@@ -26,10 +26,17 @@ export default props => (
   </p>
   <h3>Опыт</h3>
   <ul>
+  <li>Профи
+      <ul>
+        <li>Единственный человек со словом “креативный” в названии должности. Пока без подробностей (<i>ну и ладно</i>).</li>
+      </ul>
+    </li>
   <li>Авиасейлс
       <ul>
-        <li>Отвечаю за маркетинг новых продуктов.
-          Пока без подробностей (<i>ну и ладно</i>).</li>
+        <li>Запускал новые продукты и разрабатывал платформу, чтобы объединить их со <i>старыми</i>.</li>
+        <li><i>Короче</i>. Отметили топовые локации по всей России памятными табличками, где чем-то засветились модные инфлюенсеры
+          (<a href="https://paperpaper.ru/papernews/2021/10/28/v-shesti-gorodah-rossii-poyavilis-sekr/">Бумага</a>, <a href="https://srsly.ru/article/show/14881/">SRSLY</a>, <a href="https://www.youtube.com/watch?v=UebvUv6RIqo">Кубань 24</a>)
+        </li>
       </ul>
     </li>
     <li>SberDevices
@@ -48,18 +55,18 @@ export default props => (
           при помощи коммуникационных инструментов.
           Отвечал за креативный продукт от идеи
           до финальной реализации.</li>
-        <li>Клиенты: Беру, Яндекс.Маркет, Pedigree, Додо Пицца и Яндекс.Музыка </li>
+        <li>Клиенты: Беру, Яндекс.Маркет, Pedigree, Додо Пицца и Яндекс.Музыка.</li>
         <li><i>Беру</i>. Разработали коммуникационную платформу,
         чтобы бренд всегда и везде был одинаково классным и узнаваемым
-          (<a href="https://www.bloomberg.com/news/articles/2018-10-24/the-google-of-russia-takes-new-stab-at-being-its-amazon-too">Bloomber</a>, <a href="https://www.rbc.ru/finances/27/04/2018/5ae332279a79477da3f810a1">РБК</a>)
+          (<a href="https://www.bloomberg.com/news/articles/2018-10-24/the-google-of-russia-takes-new-stab-at-being-its-amazon-too">Bloomber</a>, <a href="https://www.rbc.ru/finances/27/04/2018/5ae332279a79477da3f810a1">РБК</a>).
         </li>
         <li><i>Яндекс.Музыка</i>. Вместе с WWF, Universal Music и Мастерской Ивана Дорна
         запустили Birds Records — музыкальный лейбл, который монетизирует голоса птиц через стриминг
-          (<a href="https://meduza.io/feature/2019/10/10/my-govorim-vam-cherez-ivana-nas-ochen-malo-nam-ochen-slozhno">Meduza</a>, <a href="https://www.the-village.ru/village/city/news-city/364281-dich">TheVillage</a>, <a href="https://www.wonderzine.com/wonderzine/life/life/246411-birds-records">Wonderzine</a>, <a href="https://www.kp.ru/daily/27053.5/4120442/">Комсомольская Правда</a>)
+          (<a href="https://meduza.io/feature/2019/10/10/my-govorim-vam-cherez-ivana-nas-ochen-malo-nam-ochen-slozhno">Meduza</a>, <a href="https://www.the-village.ru/village/city/news-city/364281-dich">TheVillage</a>, <a href="https://www.wonderzine.com/wonderzine/life/life/246411-birds-records">Wonderzine</a>, <a href="https://www.kp.ru/daily/27053.5/4120442/">Комсомольская Правда</a>).
         </li>
         <li><i>Додо Пицца</i>. Со специалистами по нейросетям из МФТИ и Сколтеха 
         создали Опенсорс пиццу, и выложили исходный код на GitHub
-          (<a href="https://tjournal.ru/tech/120179-dodo-picca-sozdala-piccu-s-pomoshchyu-neyrosetey-i-opublikovala-ishodnyy-kod-v-otkrytom-dostupe">TJournal</a>, <a href="https://rb.ru/story/dodo-pizza-ai/">Rusbase</a>, <a href="https://vk.com/wall-91933860_264687">N+1</a>)
+          (<a href="https://tjournal.ru/tech/120179-dodo-picca-sozdala-piccu-s-pomoshchyu-neyrosetey-i-opublikovala-ishodnyy-kod-v-otkrytom-dostupe">TJournal</a>, <a href="https://rb.ru/story/dodo-pizza-ai/">Rusbase</a>, <a href="https://vk.com/wall-91933860_264687">N+1</a>).
         </li>
       </ul>
     </li>
@@ -67,10 +74,10 @@ export default props => (
       <ul>
         <li>В течение двух лет разрабатывал бо́льшую часть коммуникации Макдоналдс: запускал новые бургеры и новые товарные категории. Делал диджитал, снимал ролики и снимался в роликах сам.
         </li>
-        <li>Клиенты: Макдоналдс и ABI Product</li>
-        <li><i>Макдоналдс</i>. Придумали и сделали весь креатив для Монополии в Макдоналдс, да, это когда на стаканчиках и бургерах появляются стикеры с улицами</li>
+        <li>Клиенты: Макдоналдс и ABI Product.</li>
+        <li><i>Макдоналдс</i>. Придумали и сделали весь креатив для Монополии в Макдоналдс, да, это когда на стаканчиках и бургерах появляются стикеры с улицами.</li>
         <li><i>Макдоналдс</i>. Разработали долгосрочную HR-платформу, чтобы 
-        амбициозные и классные ребята стабильно приходили работать в Макдоналдс</li>
+        амбициозные и классные ребята стабильно приходили работать в Макдоналдс.</li>
       </ul>
     </li>
   </ul>
