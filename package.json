@@ -12,8 +12,6 @@
     "gatsby": "^2.26.1",
     "gatsby-cli": "^2.13.1",
     "gatsby-image": "^2.11.0",
-    "gatsby-plugin-facebook-pixel": "^1.0.8",
-    "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-manifest": "^2.12.1",
     "gatsby-plugin-mdx": "^1.4.0",
     "gatsby-plugin-netlify-cms": "^4.4.0",
@@ -34,8 +32,12 @@
     "gatsby-source-filesystem": "^2.11.1",
     "gatsby-transformer-remark": "^2.10.0",
     "gatsby-transformer-sharp": "^2.12.1",
+    "glob-parent": "^6.0.2",
     "minimist": "^1.2.5",
     "netlify-cms-app": "^2.15.63",
+    "node-fetch": "^2.6.7",
+    "node-forge": "^1.2.1",
+    "postcss": "^8.4.6",
     "prismjs": "^1.26.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -44,7 +46,8 @@
     "redux": "^2.0.0",
     "typescript": "^3.9.10",
     "typography": "^0.16.21",
-    "typography-theme-wordpress-2016": "^0.16.19"
+    "typography-theme-wordpress-2016": "^0.16.19",
+    "ws": "^8.5.0"
   },
   "devDependencies": {
     "prettier": "^1.19.1"

@@ -1,5 +1,6 @@
 import React from "react";
 import { rhythm } from "../utils/typography"
+/*
 import addToMailchimp from "gatsby-plugin-mailchimp"
 
 export default class Subscription extends React.Component {
@@ -149,3 +150,4 @@ export default class Subscription extends React.Component {
     )
   }
 }
+*/

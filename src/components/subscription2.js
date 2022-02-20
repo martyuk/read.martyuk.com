@@ -1,5 +1,6 @@
 import React from "react";
 import { rhythm } from "../utils/typography"
+/*
 import addToMailchimp from "gatsby-plugin-mailchimp"
 
 //эта форма находится на странице Подписки
@@ -170,3 +171,4 @@ export default class Subscription2 extends React.Component {
     )
   }
 }
+*/
