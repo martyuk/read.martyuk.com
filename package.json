@@ -47,7 +47,8 @@
     "typescript": "^3.9.10",
     "typography": "^0.16.21",
     "typography-theme-wordpress-2016": "^0.16.19",
-    "ws": "^8.5.0"
+    "ws": "^8.5.0",
+    "yarn": "^1.22.18"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
