@@ -44,6 +44,7 @@
     "react-helmet": "^5.2.1",
     "react-typography": "^0.16.20",
     "redux": "^2.0.0",
+    "source-map": "^0.7.4",
     "typescript": "^3.9.10",
     "typography": "^0.16.21",
     "typography-theme-wordpress-2016": "^0.16.19",
@@ -58,8 +59,8 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby build",
+    "develop": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
