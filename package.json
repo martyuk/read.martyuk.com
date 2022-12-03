@@ -48,6 +48,7 @@
     "typescript": "^3.9.10",
     "typography": "^0.16.21",
     "typography-theme-wordpress-2016": "^0.16.19",
+    "urix": "^0.1.0",
     "ws": "^8.5.0"
   },
   "devDependencies": {
