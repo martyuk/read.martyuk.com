@@ -1,28 +1,26 @@
 ---
 title: Все, что вы хотели и не хотели знать про Weiden+Kennedy
 date: 2023-02-03T21:34:23.257Z
-description: Weiden+Kennedy — единственное независимое агентство, которое может
-  соревноваться c крупными сетками на равных. У них получается делать хороший
-  креатив даже для таких глобальных и неповоротливых клиентов, как KFC,
-  Coca-Cola и Ford. Wieden+Kennedy работает с Nike практически с первого дня их
-  основания, и все работы, которые вы видели, скорее всего сделали
-  Wieden+Kennedy.
+description: "Weiden+Kennedy — единственное независимое агентство, которое
+  соревнуется c крупными сетками на равных. У них получается делать хороший
+  креатив даже для глобальных и неповоротливых клиентов: KFC, Coca-Cola и Ford.
+  Wieden+Kennedy работает с Nike практически с первого дня их основания, и все
+  работы, которые вы видели, скорее всего сделали именно они."
 ---
 ### Короче говоря
 
-* Weiden+Kennedy — единственное независимое агентство, которое может соревноваться c крупными сетками на равных.
-* У Wieden+Kennedy получается делать хороший креатив даже для таких глобальных и неповоротливых клиентов, как KFC, Coca-Cola и Ford.
-* Wieden+Kennedy работает с Nike практически с первого дня их основания, и все работы, которые вы видели, скорее всего сделали Wieden+Kennedy.
+* Weiden+Kennedy — единственное независимое агентство, которое соревнуется c крупными сетками на равных.
+* У Wieden+Kennedy получается делать хороший креатив даже для глобальных и неповоротливых клиентов: KFC, Coca-Cola и Ford.
+* Wieden+Kennedy работает с Nike практически с первого дня их основания, и все работы, которые вы видели, скорее всего сделали именно они.
 
 ## Вы точно видели их работы
 
-Было бы странно рассказывать об агентствах, не показав их работы.
+Было бы странно рассказывать об агентстве, не показав его работы.
 
 ### Body Wash
 
-Это сейчас все агентства мечтают снимать дичь для Old Spice. Но когда с Old Spice
-начали работать W+K, они не делил ничего интересного.  Единственная причина, по которой бренд-менеджеры Old Spice разрешили W+K сделать что-то смелое, была в том,
-что они сами считали, что терять им в принципе нечего [^1](https://www.fastcompany.com/3035573/how-a-top-creative-director-turned-the-jobs-no-one-wanted-into-a-career-anyone-). Так появился этот шедевр:
+Это сейчас все мечтают снимать дичь для Old Spice. Но когда с Old Spice
+начали работать W+K, они не делали ничего интересного.  Единственная причина, по которой бренд-менеджеры Old Spice разрешили W+K сделать что-то смелое, была в том, что они сами считали, что терять им в принципе нечего [^1](https://www.fastcompany.com/3035573/how-a-top-creative-director-turned-the-jobs-no-one-wanted-into-a-career-anyone-). Так появился этот шедевр:
 
 `youtube: [https://youtu.be/XYrl1Yx6VB4](https://youtu.be/XYrl1Yx6VB4)`
 
@@ -80,15 +78,15 @@ Nike были основным клиентом W+K до середины 90-х,
 
 ### The Lodge
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da59a9a1-9c42-4145-a539-513328eb91a8/Screenshot_2020-05-12_at_17.37.57.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da59a9a1-9c42-4145-a539-513328eb91a8/Screenshot_2020-05-12_at_17.37.57.png)
+![](/assets/screenshot_2020-05-12_at_17.37.57.png)
 
 В 2007 году Nike отдали диджитальные проекты другому агентству, потому что W+K не умели делать диджитал. В ответ на это W+K создали студию диджитальных проектов [The Lodge](https://web.archive.org/web/20190424051440/http://www.wklodge.com/).
 
-Двое основателей ([Neil Ashra](https://www.nileshashra.com/), Paulo Ribeiro) ушли из W+K в 2018 году [^3](https://www.adweek.com/agencies/bbh-new-york-cco-gerard-caputo-is-leaving-for-wieden-kennedy), чтобы сделать свое агентство [Two Things](https://www.twothings.co/). Сейчас The Lodge интегрирован в W+K.
+Двое основателей ([Neil Ashra](https://www.nileshashra.com/), Paulo Ribeiro) ушли из W+K в 2018 году [^4], чтобы сделать свое агентство [Two Things](https://www.twothings.co/). Сейчас The Lodge интегрирован в W+K.
 
 ### The Department of New Realities
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa1120ca-ad49-4b1f-b6dd-10e6d9d819f8/Screenshot_2020-05-12_at_17.35.36.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa1120ca-ad49-4b1f-b6dd-10e6d9d819f8/Screenshot_2020-05-12_at_17.35.36.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa1120ca-ad49-4b1f-b6dd-10e6d9d819f8/Screenshot_2020-05-12_at_17.35.36.png](/assets/screenshot_2020-05-12_at_17.35.36.png)
 
 Подразделение Wieden+Kennedy Amsterdam, которое занималось дизайном в VR и AR. Сейчас оно закрыто. Проекты можно посмотреть на [Vimeo](https://vimeo.com/wkdptnr) и в [Instagram](https://www.instagram.com/wkdptnr/). DPRTNR делали [Anita Fontaine](anitafontaine.com) и [Geoffrey Lillemon](http://www.geoffreylillemon.com/SS15/).
 
@@ -96,14 +94,30 @@ Nike были основным клиентом W+K до середины 90-х,
 
 *Гиковский раздел с циферками и графиками. Данные взяты из архива D&AD. О том, как я собирал, очищал и фильтровал эти данные, я напишу отдельный пост. Так что [подписывайтесь](https://martyuk.substack.com) на рассылку, чтобы не пропустить.*
 
-![](/assets/about_wk_1.png "Nike играет большое значение для Wieden+Kennedy, но с начала 00-х оно постепенно снижается")
-
-W+K занимает 4 место в рейтинге компаний, в которых хотят работать креативщики [^4](https://www.adweek.com/agencies/wiedenkennedy-is-losing-the-founder-and-the-managing-director-of-its-tech-division).  Сразу после Google, Nike и Apple. Одна из причин, по которой все хотят работать в W+K — это награды. Очень и очень много наград.
+W+K занимает 4 место в рейтинге компаний, в которых хотят работать креативщики [^5](https://www.adweek.com/agencies/wiedenkennedy-is-losing-the-founder-and-the-managing-director-of-its-tech-division).  Сразу после Google, Nike и Apple. Одна из причин, по которой все хотят работать в W+K — это награды. Очень и очень много наград.
 
 #### Nike играет большое значение для Wieden+Kennedy, но с начала 00-х оно постепенно снижается
 
+![](/assets/about_wk_1.png "Nike играет большое значение для Wieden+Kennedy, но с начала 00-х оно постепенно снижается")
+
 #### Большую часть наград приносит меньшее количество клиентов
+
+![](/assets/about_wk_4.png "Бóльшую часть наград приносит меньшее количество клиентов")
 
 #### Большую часть наград приносит меньшее количество работ
 
 21 работа для Nike собрали почти столько же наград, сколько и 125 остальных.
+
+![](/assets/about_wk_2.png "Большую часть наград приносит меньшее количество работ")
+
+![](/assets/about_wk_3.png)
+
+[^1]: https://www.fastcompany.com/3035573/how-a-top-creative-director-turned-the-jobs-no-one-wanted-into-a-career-anyone-
+
+[^2]: https://www.encyclopedia.com/books/politics-and-business-magazines/wieden-kennedy
+
+[^3]: https://www.adweek.com/agencies/bbh-new-york-cco-gerard-caputo-is-leaving-for-wieden-kennedy/
+
+[^4]: https://www.adweek.com/agencies/wiedenkennedy-is-losing-the-founder-and-the-managing-director-of-its-tech-division/
+
+[^5]: https://magazine.workingnotworking.com/magazine/the-top-50-companies-working-not-working-creatives-want-to-work-for-in-2020
