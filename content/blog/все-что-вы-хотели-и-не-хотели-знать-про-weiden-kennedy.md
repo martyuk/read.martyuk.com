@@ -112,12 +112,12 @@ W+K занимает 4 место в рейтинге компаний, в ко�
 
 ![](/assets/about_wk_3.png)
 
-[^1]: https://www.fastcompany.com/3035573/how-a-top-creative-director-turned-the-jobs-no-one-wanted-into-a-career-anyone-
+[^1]: How A Top Creative Director Turned The Jobs No One Wanted Into A Career Anyone Would Envy — [Fast Company](https://www.fastcompany.com/3035573/how-a-top-creative-director-turned-the-jobs-no-one-wanted-into-a-career-anyone-)
 
-[^2]: https://www.encyclopedia.com/books/politics-and-business-magazines/wieden-kennedy
+[^2]: Wieden+Kennedy — [Encyclopedia](https://www.encyclopedia.com/books/politics-and-business-magazines/wieden-kennedy)
 
-[^3]: https://www.adweek.com/agencies/bbh-new-york-cco-gerard-caputo-is-leaving-for-wieden-kennedy/
+[^3]: BBH New York CCO Gerard Caputo Is Leaving for Wieden + Kennedy — [Adweek](https://www.adweek.com/agencies/bbh-new-york-cco-gerard-caputo-is-leaving-for-wieden-kennedy/)
 
-[^4]: https://www.adweek.com/agencies/wiedenkennedy-is-losing-the-founder-and-the-managing-director-of-its-tech-division/
+[^4]: Wieden+Kennedy Is Losing the Founder and the Managing Director of Its Tech Division — [Adweek](https://www.adweek.com/agencies/wiedenkennedy-is-losing-the-founder-and-the-managing-director-of-its-tech-division/)
 
-[^5]: https://magazine.workingnotworking.com/magazine/the-top-50-companies-working-not-working-creatives-want-to-work-for-in-2020
+[^5]: The Top 50 Companies Working Not Working Creatives Want to Work for in 2020 — [Working Not Working](https://magazine.workingnotworking.com/magazine/the-top-50-companies-working-not-working-creatives-want-to-work-for-in-2020)
