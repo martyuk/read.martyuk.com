@@ -45,7 +45,7 @@ description: "Weiden+Kennedy — единственное независимое
 
 ### Honda Cog
 
-`youtube: https://youtu.be/6wEzSf-qgH`
+`youtube: https://youtu.be/6wEzSf-qgHQ`
 
 ## Как W+K стали такими, какими стали
 
